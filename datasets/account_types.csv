@@ -1,0 +1,5 @@
+account_type_id,type_name,description
+1,Savings,Personal savings account
+2,Current,Business current account
+3,Salary,Employee salary account
+4,Fixed Deposit,Fixed deposit account
